@@ -1,0 +1,5 @@
+{
+  "name": "UnlockLinks",
+  "description": "A 'Follow to Unlock' link locker. Set social media tasks that users must complete to access your target URL.",
+  "requestFramePermissions": []
+}
